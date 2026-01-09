@@ -10,7 +10,7 @@
             "icontextcolor": 0,
             "openonstart": true,
             "openonstartonlynewplayers": false,
-            "updateinterval": 0
+            "updateinterval": 12
         },
         "tabs": [
             {
@@ -100,4 +100,5 @@
         ],
         "version": 2
     }
+
 }
