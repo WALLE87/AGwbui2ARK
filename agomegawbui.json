@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.Red>GigaFest</>",
-        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/gigafestevent.png?raw=true",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/gigafestevent1.png?raw=true",
         "content": [
           {
             "title": "",
@@ -123,3 +123,4 @@
     "version": 2
   }
 }
+
