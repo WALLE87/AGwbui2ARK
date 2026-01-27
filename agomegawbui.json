@@ -10,20 +10,9 @@
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": false,
-      "updateinterval": 12
+      "updateinterval": 1
     },
     "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "<TextStyle.Red>GigaFest</>",
-        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/gigafestevent1.png?raw=true",
-        "content": [
-          {
-            "title": "",
-            "text": ""
-          }
-        ]
-      },
       {
         "layout": 2,
         "buttontext": "<TextStyle.Red>Welcome</>",
